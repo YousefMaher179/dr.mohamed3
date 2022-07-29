@@ -893,6 +893,10 @@ footer .wave#wave4{
   .title2{
     text-align: center;
   }
+	#name , #email , #date , #time , #select{
+    margin-left: -10px;
+    width: 100px;
+  }
 }
 
 /*small*/

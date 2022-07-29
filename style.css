@@ -724,7 +724,7 @@ footer .wave#wave4{
 @media (max-width: 767px) {
   .select1{
       width: 30px;
-      margin-right: -30px;
+      margin-right: -10px;
       background-color: #063233;
   }
   .first{
